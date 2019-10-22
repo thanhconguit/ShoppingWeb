@@ -1,0 +1,10 @@
+D:\ASP.NET\WebApp\WebApp.Data\bin\Debug\netcoreapp3.0\WebApp.Data.deps.json
+D:\ASP.NET\WebApp\WebApp.Data\bin\Debug\netcoreapp3.0\WebApp.Data.dll
+D:\ASP.NET\WebApp\WebApp.Data\bin\Debug\netcoreapp3.0\WebApp.Data.pdb
+D:\ASP.NET\WebApp\WebApp.Data\obj\Debug\netcoreapp3.0\WebApp.Data.csprojAssemblyReference.cache
+D:\ASP.NET\WebApp\WebApp.Data\obj\Debug\netcoreapp3.0\WebApp.Data.AssemblyInfoInputs.cache
+D:\ASP.NET\WebApp\WebApp.Data\obj\Debug\netcoreapp3.0\WebApp.Data.AssemblyInfo.cs
+D:\ASP.NET\WebApp\WebApp.Data\obj\Debug\netcoreapp3.0\WebApp.Data.dll
+D:\ASP.NET\WebApp\WebApp.Data\obj\Debug\netcoreapp3.0\WebApp.Data.pdb
+D:\ASP.NET\WebApp\WebApp.Data\bin\Debug\netcoreapp3.0\WebApp.Data.runtimeconfig.json
+D:\ASP.NET\WebApp\WebApp.Data\bin\Debug\netcoreapp3.0\WebApp.Data.runtimeconfig.dev.json
